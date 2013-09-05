@@ -7,7 +7,7 @@ Trabajo Practico de Gestion de Datos - 2do Cuantrimestre 2013
  - Lafalce, Christian
  - Miller, Guillermo 
  - Scotta, Martin
- - ¿egc?
+ - Gonzalez Calderon, Eduardo
 
 
 # ¿Como crear un _Pull Request_?

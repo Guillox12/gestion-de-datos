@@ -11,6 +11,9 @@ Trabajo Practico de Gestion de Datos - 2do Cuantrimestre 2013
 
 Nombre del grupo: `BeLaMiScoGon`
 
+## Links de interes:
+- [Enunciado](https://sites.google.com/site/gestiondedatosutn/trabajo-practico)
+
 
 # ¿Como crear un _Pull Request_?
 1. Crear un [_fork_](https://help.github.com/articles/fork-a-repo) propio.

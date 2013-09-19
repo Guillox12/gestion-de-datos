@@ -9,6 +9,8 @@ Trabajo Practico de Gestion de Datos - 2do Cuantrimestre 2013
  - Scotta, Martin
  - Gonzalez Calderon, Eduardo
 
+Nombre del grupo: `BeLaMiScoGon`
+
 
 # ¿Como crear un _Pull Request_?
 1. Crear un [_fork_](https://help.github.com/articles/fork-a-repo) propio.

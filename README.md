@@ -7,7 +7,7 @@ Trabajo Practico de Gestion de Datos - 2do Cuantrimestre 2013
  - Lafalce, Christian
  - Miller, Guillermo 
  - Scotta, Martin
- - Gonzalez Calderon, Eduardo
+ - Gonzalez Calderon, Eduardo 1347044
 
 Nombre del grupo: `BeLaMiScoGon`
 

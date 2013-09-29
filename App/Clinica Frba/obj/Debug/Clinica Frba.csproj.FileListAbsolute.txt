@@ -1,0 +1,7 @@
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\bin\Debug\Clinica Frba.exe
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\bin\Debug\Clinica Frba.pdb
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\obj\Debug\Clinica_Frba.Properties.Resources.resources
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\obj\Debug\Clinica Frba.csproj.GenerateResource.Cache
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\obj\Debug\Clinica Frba.exe
+C:\Users\JePaFe\Documents\GitHub\gestion-de-datos\Aplicacion Desktop\Clinica Frba\obj\Debug\Clinica Frba.pdb

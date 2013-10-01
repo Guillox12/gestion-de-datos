@@ -5,7 +5,7 @@ Trabajo Practico de Gestion de Datos - 2do Cuantrimestre 2013
 
  - Bertani, Federico
  - Lafalce, Christian (1381805)
- - Miller, Guillermo 
+ - Miller, Guillermo (1322345)
  - Scotta, Martin (1210579)
  - Gonzalez Calderon, Eduardo (1347044)
 
